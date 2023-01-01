@@ -1,4 +1,9 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://github.com/jtmlis/jtmlis.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "JTM's blog"
 theme = 'ananke'
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+DefaultContentLanguage = "en"
+

@@ -9,3 +9,5 @@ toc: true
 This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!
+
+{{< form-contact action="https://formspree.io/jtremc@gmail.com" >}}
