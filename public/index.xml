@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JTM&#39;s blog</title>
+    <link>https://github.com/jtmlis/jtmlis.github.io/</link>
+    <description>Recent content on JTM&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://github.com/jtmlis/jtmlis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hey, World!</title>
+      <link>https://github.com/jtmlis/jtmlis.github.io/posts/hey-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/jtmlis/jtmlis.github.io/posts/hey-world/</guid>
+      <description>Hello and welcome to my new blog! 🐈
+I am excited to share my thoughts, experiences, and learnings with you all on a variety of technology-related topics. In this post, I wanted to give you a little bit of background on my motivations for starting this blog, what you can expect to see in the future, and my tentative posting schedule.
+Summary In this post, I will be discussing my motivations for starting this blog, my plans for future content, and my tentative posting schedule.</description>
+    </item>
+    
+  </channel>
+</rss>
